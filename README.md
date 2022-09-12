@@ -27,4 +27,6 @@ Repository for programming
   8.
   9.
   10.
-[This is a link to my repository](https://github.com/ArtemDidukh/Laboratorni)
+[This is a link to my repository.](https://github.com/ArtemDidukh/Laboratorni)
+
+![Link of image](https://raw.githubusercontent.com/ArtemDidukh/Laboratorni/5528a36582b04854345974d2cc9a06331a63240e/imegs/IMG_0027.JPG)
