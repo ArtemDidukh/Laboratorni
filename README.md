@@ -27,3 +27,4 @@ Repository for programming
   8.
   9.
   10.
+[This is a link to my repository](https://github.com/ArtemDidukh/Laboratorni)
